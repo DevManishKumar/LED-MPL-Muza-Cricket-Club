@@ -1,3 +1,3 @@
 #LED-MPL-Muza-Cricket-Club
 
-link - https://manish396-star.github.io/LED-MPL-Muza-Cricket-Club/
+link - https://DevManishKumar.github.io/LED-MPL-Muza-Cricket-Club/
